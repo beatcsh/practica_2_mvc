@@ -1,5 +1,3 @@
-// nombre precio categoria
-
 import { Schema, model } from "mongoose";
 
 const ProductosSchema = new Schema([
